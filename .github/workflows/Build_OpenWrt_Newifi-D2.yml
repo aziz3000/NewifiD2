@@ -29,7 +29,7 @@ on:
   #watch:
   # types: [started]
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/aziz3000/lede.git
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/Newifi_D2.config
